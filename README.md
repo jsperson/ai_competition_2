@@ -2,7 +2,7 @@
 
 **Competition:** [2025 Wichita Regional AI Prompt Championship](https://www.aipromptchamp.com)
 **Challenge:** Punchcard Decoding Race
-**Date:** October 2025
+**Date:** October 25, 2025
 
 This repository contains the solution for Challenge #4 of the 2025 Wichita Regional AI Prompt Competition - a time-based punchcard decoding challenge.
 
@@ -83,8 +83,8 @@ This challenge tested:
 
 ---
 
-**Competition Date:** October 2025
-**Repository Created:** October 2025
+**Competition Date:** October 25, 2025
+**Repository Created:** October 25, 2025
 
 ---
 
