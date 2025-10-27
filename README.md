@@ -85,3 +85,14 @@ This challenge tested:
 
 **Competition Date:** October 2025
 **Repository Created:** October 2025
+
+---
+
+## 🔗 Related Repositories
+
+This submission was part of a complete competition portfolio:
+
+- **[challenge-1](https://github.com/jsperson/challenge-1)** - Architect Track: LaunchKS platform (workforce development app)
+- **[ai_competition_oracle](https://github.com/jsperson/ai_competition_oracle)** - Oracle Track (Winner): Business plan and market research
+- **[ai_competition](https://github.com/jsperson/ai_competition)** - Muse Track (2nd Place): Kansas web games
+- **ai_competition_2** (this repo) - Challenge #4: Punchcard decoder
